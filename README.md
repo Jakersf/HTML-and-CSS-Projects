@@ -2,10 +2,10 @@
 
 This is a display of sample websites that I made using HTML and CSS.
 
-Projects
-#Movie Theater Website
-#Space Station Website
-#Portfolio Website
+##Projects##
+###Movie Theater Website###
+###Space Station Website###
+###Portfolio Website###
 
 #Space Station Site
 This page is an example home page for a space travel company. 
